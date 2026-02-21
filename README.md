@@ -1,5 +1,24 @@
 # IllILevi.github.io
 
+The courses in the Computer Science program for SNHU, were inclusive to many different areas of computer science. Which helped build a great foundation and give room to explore and find a subfield to specialize in. This enhanced and helped showcase my strengths of effective problem solving skills, willingness to learn, and adaptability. It also helped form hard skills and soft skills that are crucial in a professional environment and makes me more employable in the computer science field. 
+
+# Collaborating In a Team Environment
+I’m very comfortable operating in team environments and have frequently been exposed to different methodologies and philosophies of teamwork. For instance, CS-250: Software Development Lifecycle improved my soft skills of collaborating in a team environment as it taught me the inner workings of the different philosophies of software development like agile and devops. Both of which require strong communication between team members and other teams to be successful. 
+
+# Communicating With Stakeholders
+Communicating with non-technical people like stakeholders is a valuable skill to have and it was strengthened during the course CS-255: System Analysis and Design, which focused on interviewing an owner of a company and understanding the wants and needs of the client and designing the system around those wants and needs. 
+
+# Data Structures and Algorithms
+Courses like CS-210: Programming Languages and IT-145: Foundations in Application Development really helped foster algorithmic thinking and a deep understanding of data structures and algorithms based on performance, memory, and maintainability trade-offs.
+
+# Databases
+With courses like DAD-220: Introduction to Structures Database Environments, I’ve learned to connect that bridge between front-end and back-end and have become quite proficient in query optimization, forming indexing strategies, and database modeling.  
+
+# Security
+From the very beginning of my journey at SNHU in the computer science program, security has been at the forefront of every project. With courses like CS-305: Software Security and CS-405: Secure Coding, I’ve become very proficient in understanding and implementing industry-standard secure coding principles and the ethical responsibilities behind being a professional in the computer science field. 
+
+Below is some of my work that showcases my skills that I’ve highlighted above in real coding projects. They encompass three categories: Software Engineering and Design, Data Structures and Algorithms, and Databases. Each one shows that I can design and evaluate computing solutions that solve a given problem using algorithmic principles and computer sciences practices and standards appropriate to its solution, while managing trade-offs involved in design choices,  Demonstrate an ability to use well-founded and innovative techniques, skills, and tools in computing practices for the purpose of implementing computer solutions that deliver value and accomplish industry-specific goals, and develop a security mindset that anticipates adversarial exploits in software architecture and designs to expose potential vulnerabilities, mitigate design flaws, and ensure privacy and enhanced security of data and resources.
+
 
 Here is the First code review: [![Module Two Code Review](https://img.youtube.com/vi/iahhYUW6S3Q/0.jpg)](https://youtu.be/iahhYUW6S3Q)
 
